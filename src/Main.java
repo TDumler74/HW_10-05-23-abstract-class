@@ -39,9 +39,9 @@ public class Main {
     house.add(dom2);
     house.add(dom3);
 
-    for (Dom house1 : house){}
+    for (Dom house1 : house) {
 
-    System.out.println(house);
-
+      System.out.println(house1);
+    }
   }
 }
